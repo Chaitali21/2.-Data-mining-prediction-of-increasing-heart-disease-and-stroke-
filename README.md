@@ -1,0 +1,2 @@
+# 2.-Data-mining-prediction-of-increasing-heart-disease-and-stroke-
+Collected database about heart diseases and strokes depending on key attributes ,Performed Data mining by visualizing collected data in scatter plot, pie chart using R programming ,Used the results obtained to identify the main causes of the increases in the disease using data visualization techniques ,Predicted the measures to help in reduction of the rates of disease
